@@ -1,9 +1,3 @@
-Aqui está o código completo do seu `app.py` com todas as atualizações de seletores, Regex, filtro de variações anti-falsos positivos e o truque de instalação automática do Playwright integrados.
-
-Também corrigi alguns erros de sintaxe matemática (como `1000i` para `1000 * i` e operadores de subtração faltantes) que provavelmente ocorreram quando você copiou o código para cá.
-
-Copie o bloco abaixo e substitua **todo** o conteúdo do seu arquivo `app.py`:
-
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
