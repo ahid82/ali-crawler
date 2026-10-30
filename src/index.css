@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg-lead: #2B2C30;
+  --surface-lead: #36383E;
+  --surface-lead-elevated: #40434A;
+  --border-lead: #484B52;
+}
+
+body {
+  background-color: #2B2C30;
+  color: #F5F6F8;
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  min-height: 100vh;
+}
+
+/* Monospace font for tabular price figures */
+.font-tabular {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-numeric: tabular-nums;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Minerador AliExpress",
+  "description": "Web App em Python com Streamlit, Playwright-stealth e Pandas para scraping dinâmico e ordenação de produtos pelo menor preço.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
